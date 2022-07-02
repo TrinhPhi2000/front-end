@@ -1,0 +1,23 @@
+Hook: là nhưng method, nhừng hàm được viết bởi reactjs (gắn vào components), hook dung cho function components
+
+Tạo nên nhưng component đơn giản dể hiểu, đủ tính năng
+	+ Không bị chia logic ra như method trong lifecycle của class component
+	+ Không cần sử dụng this
+Sử dụng hook khi nào?
+	+ dự án  mơi
+	+ Component cũ: giữ nguyên, có thời gian tối ưu sau
+	+ Khi nào sử dụng nhưng thuộc tính liên quan đến hướng đối tượng OOP -> class components
+Người bắt đầu function component : dễ tiếp cận
+Có kết hợp fun component với class component
+import {
+	useState -> 
+	useEffect
+	useLayoutEffect
+	useRef
+	useCallBack
+	useMemo
+	useReducer
+	useContext
+	useImperativeHandle
+	useDebugValue
+} from React

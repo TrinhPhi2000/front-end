@@ -1,0 +1,21 @@
+-NPM
+- Project scope
+	npm install react react-dom => dependencies
+	npm i react react-dom => dependencies
+
+	npm install --save-dev react react-dom => dependencies
+	npm i -D react react-dom => dependencies
+
+Xoa du an
+	npm uninstall react react-dom
+- Global scope	 -> Khi du an khong phu thuoc thu vien do
+	- npm i --global craete-react-app
+	- npm i -g craete-react-app
+
+	- npm uninstall -g craete-react-app
+
+
+
+-NPX: de ho tro nhung thu vien thuc thi co chau file bin
+
+-YARN

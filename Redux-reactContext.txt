@@ -1,0 +1,6 @@
+Redux: 
+1. De debug hon
+2. Cung cap san cac Middleware (nhu logger)
+3. Addons and extensibility
+4. Cross-platform da nen tang
+5. Depending on your app's  

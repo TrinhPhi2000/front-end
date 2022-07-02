@@ -1,0 +1,6 @@
+- Node-modules: chứa tất cả thư viện được cài đặt trong dự án
+- Publish: tất cả file nằm trong đây đều truy cập được trên trình duyệt (thư mực gốc (root-))
+
+.gititnore: file quy định khai báo nhưng thư mục file cụ thể
+- Src: 
+index.js: 
